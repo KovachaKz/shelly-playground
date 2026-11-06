@@ -6,7 +6,7 @@
 
 > **Free demo** · Windows and Linux · no installation · no internet needed · no electrical knowledge needed
 >
-> **[⬇ Download the latest demo](../../releases/latest)**
+> **[⬇ Download the demo](../../releases)**
 
 ---
 
